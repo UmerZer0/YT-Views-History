@@ -1,6 +1,6 @@
 This was inspired by the https://www.youtubewatchhistorystats.com/. You can use this to get view count for videos and channels in your YouTbbe history.
 
-Get 'watch-history.json' from Google Takeout
+Get 'watch-history.json' from Google Takeout and put it in the same folder as this file.
 url: https://takeout.google.com/
 
 Steps:
