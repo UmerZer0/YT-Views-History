@@ -1,4 +1,5 @@
-This was inspired by the <a href="https://www.youtubewatchhistorystats.com/">YouTube Watch History Stats</a>. You can use this to get view count for videos and channels in your YouTbbe history.
+You can use this to get view count for videos and channels in your YouTbbe history.
+This was inspired by the <a href="https://www.youtubewatchhistorystats.com/">YouTube Watch History Stats</a>.
 
 Get <code>watch-history.json</code> from <a href="https://takeout.google.com/">Google Takeout</a> and put it in the same folder as this file.
 
